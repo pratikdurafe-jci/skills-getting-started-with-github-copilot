@@ -1,6 +1,6 @@
 # Getting Started with GitHub Copilot
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="500px" />
 
 Hey pratikdurafe-jci!
 
